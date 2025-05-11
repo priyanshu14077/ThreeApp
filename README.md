@@ -1,2 +1,2 @@
 # ThreeApp
-A #-D immersive Website 
+A 3-D immersive Website 
