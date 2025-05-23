@@ -1,2 +1,2 @@
-# ThreeApp
-A 3-D immersive Website 
+ThreeApp
+A 3D immersive Frontend Website with responsive user experience.
